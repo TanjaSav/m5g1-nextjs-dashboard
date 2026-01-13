@@ -19,7 +19,7 @@ https://m5g1-nextjs-dashboard.vercel.app/
 Source code and full project structure:  
 https://github.com/TanjaSav/m5g1-nextjs-dashboard
 
-## Features:
+## Features
 
 -  Login with test credentials  
 -  Search invoices  
@@ -28,7 +28,7 @@ https://github.com/TanjaSav/m5g1-nextjs-dashboard
 -  Delete invoices  
 -  View revenue charts and customer stats  
 
-##  What I Learned:
+##  What I Learned
 
 1. **Getting Started** — project setup and App Router basics  
 2. **CSS Styling** — global styles and Tailwind integration  
